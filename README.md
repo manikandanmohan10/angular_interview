@@ -32,3 +32,18 @@
 30. oops concept
 31. localstorage vs sessionstorage
 32. module.export vs default export
+
+
+## Answers
+1. Typescript: <br>
+     &nbsp;&nbsp;&nbsp;&nbsp; TypeScript is a strongly typed, object-oriented, compiled programming language
+that builds on JavaScript. It is a superset of the JavaScript language, designed to give you better tooling at any scale.
+2. JS vs TS: <br>
+&nbsp;&nbsp;&nbsp;&nbsp; JavaScript is a popular programming language used for web development. It lets 
+you create interactive and dynamic features on websites. However, it can sometimes lead to unexpected errors. <br>
+&nbsp;&nbsp;&nbsp;&nbsp; TypeScript is like a "supercharged" version of JavaScript. It adds extra rules that
+ help catch mistakes before your code runs, making your programs more reliable. It's especially useful for larger projects where avoiding errors is important. <br>
+&nbsp;&nbsp;&nbsp;&nbsp; In short, JavaScript is powerful but can be error-prone, while TypeScript adds
+ extra safety to your code.
+
+
